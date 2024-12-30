@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced Artificial Intelligence, Docker**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Science and Python Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SahilChukka19](https://github.com/SahilChukka19)
 
