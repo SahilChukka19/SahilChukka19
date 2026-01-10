@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Chukka</h1>
-<h3 align="center">Highly motivated and dedicated engineering professional with a strong academic background and practical experience seeking a challenging position in the field. Committed to applying technical expertise and innovative problem-solving skills to contribute to the advancement of technology.</h3>
+<h3 align="center">Data Science and ML professional skilled in Python, PyTorch, Scikit-learn, XGBoost, and SQL, with experience in REST APIs, Flask, and data visualization (Power BI, Matplotlib, Seaborn). Published research on deep learning for medical imaging, with expertise in data preprocessing, model optimization, and cloud (Azure).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilchukka19&label=Profile%20views&color=0e75b6&style=flat" alt="sahilchukka19" /> </p>
 
