@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahil.chukka@gmail.com**
 
-- 😀 Visit my portfolio at [https://www.sahilchukka.in/](Portfolio)
+- 😀 Visit my portfolio at [Portfolio](https://www.sahilchukka.in/)
 
 - ⚡ Fun fact **Finding patterns in data like Sherlock finds clues!**
 
